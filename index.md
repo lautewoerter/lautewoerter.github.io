@@ -4,11 +4,11 @@ Es können sehr einfach eigene Wörter mit Bild und Ton ergänzt werden, so dass
 
 ### Datenschutzerklärung
 
-# Zugriffe der App
+#### Zugriffe der App
 Die App "Laute Wörter" benötigt Zugriff auf das Mikrofon und auf Bilddateien. 
 Diese werden benötigt, um eigene Wörter anzulegen und diese mit Bildern und Ton zu versehen. 
 
-# Speicherung und Weitergabe von Daten
+#### Speicherung und Weitergabe von Daten
 Diese App verarbeitet, speichert und überträgt keine personenbezogenen Daten online. 
 Es werden keine Daten an Dritte weitergegeben. 
 Speicherung von Tonaufnahmen findet nur lokal statt. 
