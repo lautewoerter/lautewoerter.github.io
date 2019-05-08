@@ -9,6 +9,6 @@ Die App "Laute Wörter" benötigt Zugriff auf das Mikrofon und auf Bilddateien.
 Diese werden benötigt, um eigene Wörter anzulegen und diese mit Bildern und Ton zu versehen. 
 
 #### Speicherung und Weitergabe von Daten
-Diese App verarbeitet, speichert und überträgt keine personenbezogenen Daten online. 
+Die App "Laute Wörter" verarbeitet, speichert und überträgt keine personenbezogenen Daten online. 
 Es werden keine Daten an Dritte weitergegeben. 
-Speicherung von Tonaufnahmen findet nur lokal statt. 
+Die Speicherung von Tonaufnahmen findet nur lokal ud einzig zum Zweck der Vertonung der eigenen Wörter statt. 
