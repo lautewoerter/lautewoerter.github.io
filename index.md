@@ -1,4 +1,4 @@
-Mit der App "Laute Wörter" wird das Lesen lernen nach der Ganzwortmethode, auch unter dem Begriff "Frühes Lesen" bekannt unterstützt. 
+Mit der App "Laute Wörter" wird das Lesenlernen nach der Ganzwortmethode, auch unter dem Begriff "Frühes Lesen" bekannt, unterstützt. 
 Es können sehr einfach eigene Wörter mit Bild und Ton ergänzt werden, so dass die Kinder mit den Wörtern üben können, die für sie von Interesse sind.
 
 Entwickler, Anbieter und Betreiber der App "Laute Wörter" ist Marianne Hoppe. 
